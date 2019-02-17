@@ -1,6 +1,6 @@
 {
   "name": "@enigmatis/utills",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "common utils and types for polaris",
   "main": "./dist/main.js",
   "types": "./dist/main.d.ts",
