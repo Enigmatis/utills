@@ -1,6 +1,6 @@
 import { PolarisLogProperties } from '@enigmatis/polaris-logs';
 
-export interface GraphqlLogger<TContext> {
+export interface GraphqlLogger<TContext = object> {
     fatal(
         message: string,
         options?: {
