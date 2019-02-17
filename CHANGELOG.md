@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Enigmatis/common/compare/v1.0.0...v1.0.1) (2019-02-17)
+
+
+### Bug Fixes
+
+* **import:** add main.ts so import will work ([11a5a53](https://github.com/Enigmatis/common/commit/11a5a53))
+
 # 1.0.0 (2019-02-17)
 
 
