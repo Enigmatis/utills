@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/Enigmatis/utills/compare/v1.1.0...v1.2.0) (2019-03-18)
+
+
+### Features
+
+* **types:** add polaris base context type ([450903c](https://github.com/Enigmatis/utills/commit/450903c))
+
 # [1.1.0](https://github.com/Enigmatis/utills/compare/v1.0.1...v1.1.0) (2019-02-17)
 
 
