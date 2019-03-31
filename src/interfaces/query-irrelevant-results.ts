@@ -1,9 +1,9 @@
-export class QueryIrrResult {
+export class QueryIrrelevantResult {
     result: any[];
-    irr: any[];
+    irrelevantEntities: string[];
 
-    constructor(result: any[], irr: any[]) {
+    constructor(result: any[], irrelevantEntities: string[]) {
         this.result = result;
-        this.irr = irr;
+        this.irrelevantEntities = irrelevantEntities;
     }
 }
