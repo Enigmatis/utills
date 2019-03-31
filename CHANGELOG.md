@@ -1,3 +1,15 @@
+# [1.3.0](https://github.com/Enigmatis/utills/compare/v1.2.0...v1.3.0) (2019-03-31)
+
+
+### Bug Fixes
+
+* after sakak ([e6161e4](https://github.com/Enigmatis/utills/commit/e6161e4))
+
+
+### Features
+
+* refactoring code location (query irr) ([e3f46d7](https://github.com/Enigmatis/utills/commit/e3f46d7))
+
 # [1.2.0](https://github.com/Enigmatis/utills/compare/v1.1.0...v1.2.0) (2019-03-18)
 
 
