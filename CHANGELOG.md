@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/Enigmatis/utills/compare/v1.3.0...v1.3.1) (2019-04-01)
+
+
+### Bug Fixes
+
+* after sakak ([665e556](https://github.com/Enigmatis/utills/commit/665e556))
+
 # [1.3.0](https://github.com/Enigmatis/utills/compare/v1.2.0...v1.3.0) (2019-03-31)
 
 
