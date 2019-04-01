@@ -1,9 +1,9 @@
 export class QueryIrrelevantResult {
-    result: any[];
+    relevantEntities: any[];
     irrelevantEntities: string[];
 
-    constructor(result: any[], irrelevantEntities: string[]) {
-        this.result = result;
+    constructor(relevantEntities: any[], irrelevantEntities: string[]) {
+        this.relevantEntities = relevantEntities;
         this.irrelevantEntities = irrelevantEntities;
     }
 }
