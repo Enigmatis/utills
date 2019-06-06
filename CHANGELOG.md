@@ -1,3 +1,11 @@
+## [1.3.2](https://github.com/Enigmatis/utills/compare/v1.3.1...v1.3.2) (2019-06-06)
+
+
+### Bug Fixes
+
+* add mongo configuration ([0a471c1](https://github.com/Enigmatis/utills/commit/0a471c1))
+* add mongo configuration ([c0f4a74](https://github.com/Enigmatis/utills/commit/c0f4a74))
+
 ## [1.3.1](https://github.com/Enigmatis/utills/compare/v1.3.0...v1.3.1) (2019-04-01)
 
 
