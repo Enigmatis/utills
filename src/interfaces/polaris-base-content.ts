@@ -5,7 +5,7 @@ export interface MongoConfiguration {
 
 export interface PolarisBaseContext {
     headers: PolarisRequestHeaders;
-    modelConfiguration?: MongoConfiguration;
+    mongoConfiguration?: MongoConfiguration;
 }
 
 export interface PolarisRequestHeaders {
