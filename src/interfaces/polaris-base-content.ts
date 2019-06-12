@@ -1,11 +1,11 @@
-export interface MongoConfiguration {
+export interface SoftDeleteConfiguration {
     allowSoftDelete?: boolean;
     softDeleteReturnEntities?: boolean;
 }
 
 export interface PolarisBaseContext {
     headers: PolarisRequestHeaders;
-    mongoConfiguration?: MongoConfiguration;
+    softDeleteConfiguration?: SoftDeleteConfiguration;
 }
 
 export interface PolarisRequestHeaders {
