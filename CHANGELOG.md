@@ -1,3 +1,25 @@
+## [1.3.3](https://github.com/Enigmatis/utills/compare/v1.3.2...v1.3.3) (2019-06-12)
+
+
+### Bug Fixes
+
+* change to soft delete configuration ([8501fb4](https://github.com/Enigmatis/utills/commit/8501fb4))
+
+## [1.3.2](https://github.com/Enigmatis/utills/compare/v1.3.1...v1.3.2) (2019-06-06)
+
+
+### Bug Fixes
+
+* add mongo configuration ([0a471c1](https://github.com/Enigmatis/utills/commit/0a471c1))
+* add mongo configuration ([c0f4a74](https://github.com/Enigmatis/utills/commit/c0f4a74))
+
+## [1.3.1](https://github.com/Enigmatis/utills/compare/v1.3.0...v1.3.1) (2019-04-01)
+
+
+### Bug Fixes
+
+* after sakak ([665e556](https://github.com/Enigmatis/utills/commit/665e556))
+
 # [1.3.0](https://github.com/Enigmatis/utills/compare/v1.2.0...v1.3.0) (2019-03-31)
 
 

@@ -1,5 +1,11 @@
+export interface SoftDeleteConfiguration {
+    allowSoftDelete?: boolean;
+    softDeleteReturnEntities?: boolean;
+}
+
 export interface PolarisBaseContext {
     headers: PolarisRequestHeaders;
+    softDeleteConfiguration?: SoftDeleteConfiguration;
 }
 
 export interface PolarisRequestHeaders {
