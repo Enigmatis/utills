@@ -39,7 +39,7 @@
   },
   "homepage": "https://github.com/Enigmatis/mongo-driver#readme",
   "dependencies": {
-    "@enigmatis/polaris-logs": "^2.2.1",
+    "@enigmatis/polaris-logs": "^2.5.4",
     "@types/node": "10.12.12"
   },
   "peerDependencies": {
