@@ -1,3 +1,12 @@
+export interface ExecutionMetadata {
+    dataVersion?: number | null;
+}
+
+export interface ExecutionResult {
+    result: any;
+    executionMetadata?: ExecutionMetadata;
+}
+
 export interface SoftDeleteConfiguration {
     allowSoftDelete?: boolean;
     softDeleteReturnEntities?: boolean;
@@ -6,6 +15,7 @@ export interface SoftDeleteConfiguration {
 export interface PolarisBaseContext {
     headers: PolarisRequestHeaders;
     softDeleteConfiguration?: SoftDeleteConfiguration;
+    executionMetadata?: ExecutionMetadata;
 }
 
 export interface PolarisRequestHeaders {
