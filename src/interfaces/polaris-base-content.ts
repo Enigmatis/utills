@@ -1,6 +1,5 @@
 export interface ExecutionMetadata {
     dataVersion?: number | null;
-    debugDate?: Date | null;
 }
 
 export interface ExecutionResult {
